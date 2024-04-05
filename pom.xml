@@ -12,7 +12,7 @@
 	<artifactId>PhotoAppUsersService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PhotoAppUsersService</name>
-	<description>Project for Photo App Discovery</description>
+	<description>Project for Photo App User management</description>
 	<properties>
 		<java.version>21</java.version>
 		<spring-cloud.version>2023.0.1</spring-cloud.version>
